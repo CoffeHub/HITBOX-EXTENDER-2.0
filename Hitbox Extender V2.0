@@ -16,7 +16,7 @@ local UI = Material.Load({
 })
 
 local Page = UI.New({
-    Title = "Hitbox Extender V2.1"
+    Title = "Hitbox Extender"
 })
 local Page2 = UI.New({
     Title = "Hitbox Settings"
